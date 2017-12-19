@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- Instructions -->
+    <string name="instructions">How to play: Select or enter the correct answer(s) for each question
+        and then click the Check Answers button to get your score!</string>
+
+    <!-- Question 1 & Answers -->
+    <string name="question1">1. What 2007 Pixar film starred a rodent and was set in France?</string>
+    <string name="brave">Brave</string>
+    <string name="aristocats">Aristocats</string>
+    <string name="ratatouille">Ratatouille</string>
+    <string name="rescuers">Rescuers</string>
+
+    <!-- Question 2 -->
+    <string name="question2">2. Sigourney Weaver returned as Ripley in what 1986 action film set on
+        LV-426 and directed by James Cameron?</string>
+    <string name="type_answer_here">Type answer here</string>
+
+    <!-- Question 3 & Answers -->
+    <string name="question3">3. What 1963 film starring Elizabeth Taylor was once one of the most
+        expensive films ever made and actually won Taylor a Guinness Record for excessive costume
+        changes?</string>
+    <string name="giant">Giant</string>
+    <string name="cleopatra">Cleopatra</string>
+    <string name="ivanhoe">Ivanhoe</string>
+    <string name="charade">Charade</string>
+
+    <!-- Question 4 -->
+    <string name="question4">4. \"Who ya gonna call?\" This line from the theme song of a popular
+        1984 sci-fi/comedy would ultimately be followed by what answer?</string>
+
+    <!-- Question 5 & Answers -->
+    <string name="question5">5. ________ starred in the 1976 film based on Stephen King\'s first
+        novel called ________?</string>
+    <string name="sissy_spacek">Sissy Spacek</string>
+    <string name="dee_wallace_stone">Dee Wallace Stone</string>
+    <string name="carrie">Carrie</string>
+    <string name="cujo">Cujo</string>
+    <string name="check_answers">Check Answers</string>
+
+
+</resources>
